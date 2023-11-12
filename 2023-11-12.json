@@ -1,0 +1,26 @@
+{
+  "name": "Danny Herrera",
+  "age": 27,
+  "address": {
+    "street": "Lerhuk Lane",
+    "city": "Ludrujke",
+    "state": "NC",
+    "zip": "45238"
+  },
+  "contact": {
+    "phone": "(706) 532-3466",
+    "servicePhone": "800898353"
+  },
+  "birthday": "1968-12-20T18:03:53.609Z",
+  "ip": "169.176.167.211",
+  "foo": "bar",
+  "profile": {
+    "about": "Tu lozoblo doiri nikegwad dajcak ce tilus sasissa heb terhinrij ufi ojwat. Ti laf kel lup zicviudo difcet tifi ewkev dut es zebuno de aluz hopawem la ebweti iganu. Vuno esna ruackoc ni gerla ad wootsi fiwuscid wotlugme sewuc vagna esumez. Hebtaw tuzhiro fejibi novos fobguvra otunuf movzunno unouno povekpup wuhalzaz utoleiz enerowug. Huuse rakdilul haruwelo juwubogo bopahwu zamtic ijfu fibbamat ja lipuka bip pi wetseji arcefvo niap oz kepuj.",
+    "bio": "Fahus wu ba cufkagji dilwunoc mi ojedezvi ebotan hojac ruhdisav ciwopereg pum ciw de jas ihone. Riras biku api ha idawzo forticso pommen gizsumhe zez ziptagi suh hasud egbeglam ewtebzir bu. Naabotu ip veh ovnep sepus zar laguvug sum la ga virhemvu izmej angemcaw eme vuva hu avnigab. Lafipu ertuhev he radwuce kefmu otuwa biib eb rug derbal iswo du fec mez lofkajo. Zugja ig doedouv dola ivolic lallaf solnuzka vugbo posgup lef sedfubav fuh zacu ozpede wonnubi."
+  },
+  "apiKey": "ad2c7940f9a9a1fefcdc822120326bf31034c10465f8c1da02db51270425c3a9",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
