@@ -1,0 +1,26 @@
+{
+  "name": "Nathan McCormick",
+  "age": 30,
+  "address": {
+    "street": "Umeva Point",
+    "city": "Amruti",
+    "state": "WA",
+    "zip": "09295"
+  },
+  "contact": {
+    "phone": "(267) 344-7040",
+    "servicePhone": "800827825"
+  },
+  "birthday": "1968-01-09T11:44:55.791Z",
+  "ip": "230.97.174.205",
+  "foo": "bar",
+  "profile": {
+    "about": "En em venza vi cuwev kuc evudos bicba papsiko halco ifno oco jelcun muvi. Fecmigdo urati goket vajukter mepozol akvat capaz pik no ezgope josvi buctivek. Vij ruco kufucpaf makevor zawel ebud bevtipowu row anjuk dijti nafhivub tofah itguv ji. Ted uzatfo wifi laririga everirkav mut entevaka divu wi eho ni hi umicobip bonetis. Raceb kito cere kigufco soub namake li fuk ze azagedij buvbi le kuapwam mezvi fa cowjavo. Lev cukbugdo ajijub avditiw dar iho cuwgoneh ribko toabome hiicu joumotu towsi tid cipdutbug mojih zike. Tamec be fusjenke bo wi daw pi zuuvhor jopuide pit lomzu sako kouf cepo.",
+    "bio": "Buvefi zukim zekumise fohe vi rubufe haz akagwe uba awakovjej lulnoc awgegtu cabahmah ok hisreg. Wafi pugukmoj ew monpuc tuak niusinon uwuiju keosizo izera al narvagvo lek ruhagti fir le lamgu. Hewpimuk hu mor vatluper owewaf dok irezofom vegaw fere ci ju cim gewde pipuzap iden fohodtop tetbe pet. Taf sirmehpep mededis solwu ifnesu elfakbi jemu zoejlih cejvegto imonote abigi zepuw. Lew anmorote buhkag keejice opekibo zirbinak tekwo uzivica volreesu koicmav lucri lubfukdu leb sotol. Lupoit mizaafo vav lasadu su vabepi mogih ikodozu na zijesik nimiwfe gerfaw."
+  },
+  "apiKey": "de1ae2585cc395edef5b26362f13f85f2df402ce0960113b6c26d3ce80906f62",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
