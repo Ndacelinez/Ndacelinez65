@@ -1,0 +1,26 @@
+{
+  "name": "Lewis Hamilton",
+  "age": 38,
+  "address": {
+    "street": "Zolse Street",
+    "city": "Pufacla",
+    "state": "AZ",
+    "zip": "49051"
+  },
+  "contact": {
+    "phone": "(950) 678-4476",
+    "servicePhone": "800599299"
+  },
+  "birthday": "1967-01-02T05:00:27.428Z",
+  "ip": "58.55.59.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Ko ohekeci nolna gi malovcuv mek uhjin wodek cuh wadeh dig idolutefu pu mogvih luiwip be. Mi keru marugu en nij vuzuvi rum ud pikkel ohodidez gildofan maukaec rasic. Bu weh pa vemkinhol ve cif sabnaus cupi zesfajak wib fopuc di del zan uhmawze simu parjetal. Hurazjid hubuw vali curosjov babota viilo gomlek olaviti dezipve hijezag seizuse zuta. Cicwinoh fak bifru nehismo zagatisu guntan bocaf tub pumog ifko lejolwi boaro pizok hosjoc.",
+    "bio": "Loutu wuw rijcab nun ku uluwaon vuoluul ciol gusozoh pizacoifo nazezoc bafivno uheg tozribre wa. Lo sojiw nobivner re retwic monu dini uti puuc edotuc un tieh. Veko fekgaado laframna tajibu onla upo oddepboc istip uru gadkuhcav tubalhe esu."
+  },
+  "apiKey": "eee8d052ca8dba68edc7810e067b0a444afdbda2c5378470d65768556bd3855e",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
