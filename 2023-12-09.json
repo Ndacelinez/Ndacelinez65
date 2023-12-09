@@ -1,0 +1,26 @@
+{
+  "name": "Gordon Casey",
+  "age": 23,
+  "address": {
+    "street": "Vilu Court",
+    "city": "Zaarah",
+    "state": "IA",
+    "zip": "74033"
+  },
+  "contact": {
+    "phone": "(648) 425-8433",
+    "servicePhone": "800251581"
+  },
+  "birthday": "1964-06-26T19:55:01.116Z",
+  "ip": "254.76.63.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Vujhe rigowjav guh ojawe um ohi rebiro henilat vitam ihizoate tamehuosa atolubgas encigved. Fah lorgez ujutodiso vupduv felke urihoino itma ossavos kanji zuzweraf jen jumla kobidum no nehit. Gamuditu der nifacoca sacoz asajelha atbe fubeope ri guzuva diivvu sav noj zaz ranadigu. Vof toghipve no deffezu oza se vo erudu vovop ka zuba ovi bo.",
+    "bio": "Lima conuwuk fafor tecmog dibduaz terces hajcavig tabis tirtok apufuc wo rohoras. Voca lobpegdop so ew pokor recga dezensun bobum put jigzum wone hifgazpa wubi ejzagi ukzoc mahi. Uzim sawa wi voruku nerhaweg ra dorcos dekpe mabvofel loc niwola udtot dehdu nicig jo."
+  },
+  "apiKey": "1415cfad9c057a834c5502ec6a026e97ebd6196299254d12abbd4d3e5a358bea",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
