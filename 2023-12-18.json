@@ -1,0 +1,26 @@
+{
+  "name": "Douglas Gordon",
+  "age": 48,
+  "address": {
+    "street": "Ucij Avenue",
+    "city": "Moceamu",
+    "state": "NM",
+    "zip": "69368"
+  },
+  "contact": {
+    "phone": "(701) 393-5879",
+    "servicePhone": "800426849"
+  },
+  "birthday": "1986-08-28T14:39:13.527Z",
+  "ip": "49.200.17.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Botipne tubuctis uv tic tamapcib fu fovdukrij haw kodavmat bu suti fepra hemaj ukefiuwe. Ojeumu cugdicbuc kuc seobbul olsurro kesarnor neohiba bibab oczefcuj nik cazunaseg heztallo niwwommih epeg ageun vilcaodu gikgowhih. Da vuvwe em ruhusina nuhwekpet san lo bu acowaazo navis ledmokof ajagu.",
+    "bio": "Cumulol ocivu juma lu ojabehju labuhega rebulzuj werpav hafo uw mer sa piruzop zadepuz. Otodunruc hi luk joavamu pefeb fes olka litihu ro zefpa siv apejumo eki ledbudim uvrofa jehguohe. Soki ovehu vafagoj udo ez lo rolsokku lafahuz kobi sita fubi ec lasi eke ufbob guufukuh or ad."
+  },
+  "apiKey": "582d65cff34e3b5c774fd8d72d19451b41db597f02a8be709f9b613e8a5ddfde",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
