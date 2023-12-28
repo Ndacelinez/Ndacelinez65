@@ -1,0 +1,26 @@
+{
+  "name": "Jerome Benson",
+  "age": 53,
+  "address": {
+    "street": "Negur Road",
+    "city": "Ropmejen",
+    "state": "GA",
+    "zip": "85591"
+  },
+  "contact": {
+    "phone": "(313) 872-6490",
+    "servicePhone": "800137188"
+  },
+  "birthday": "1973-11-06T16:18:39.505Z",
+  "ip": "59.145.254.215",
+  "foo": "bar",
+  "profile": {
+    "about": "Goosovuh etimaija er zogo bonto weiroiru wolhinoh towoj zeh dipeniva egna folovva zoder. Daorineb uzfiruf fogidga seni behivju mauso ecepu zahbod ji jus dug hawdeezu ozafukom sov. Rodur wuad mehtozub jainiusa epusum weekiemi gih ej viwa wanzadza pejaj kagdep. Betajnu ugzogmu ewubajana butwut jitiso ra revap ado nos likuka fifrewur kazu ceblana.",
+    "bio": "Cewov gekgel kalut ecca kijimo ubluid resjik ge rur amhuzid jipkumres erjugjos idaak topub ta. Wap roov kuh mer pevbobjuk nej mimmazic poc kosvozah sula tifjooh fic fubebi. Ruihpil lum habako jerni kevouga lojpo paviwe ew ozaij ija fownos wokze toobbe cakoz. Lamem ebeuc eza ho wu ci dew erefi ciera hiota bowbop puolo zecbi zornofiz viducoz heplerpo."
+  },
+  "apiKey": "c2989625e7b0a768f99f2239faaf9aa4826b4f43eac771401fc65cb7a89ae6ab",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
