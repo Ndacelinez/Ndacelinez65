@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Ross",
+  "age": 23,
+  "address": {
+    "street": "Ugalen Terrace",
+    "city": "Vihvisviz",
+    "state": "RI",
+    "zip": "21946"
+  },
+  "contact": {
+    "phone": "(473) 442-9264",
+    "servicePhone": "800361253"
+  },
+  "birthday": "2003-06-07T16:31:42.482Z",
+  "ip": "247.202.208.116",
+  "foo": "bar",
+  "profile": {
+    "about": "Mab si ohfud ocenignun et dafzegu komevva kis luhhow hujgovoc pim lembajka vut za fizgoon izijik jubhihi. Ibejokar inul gamnormo li ocetoj diufoic giva in fuchapu actuc jup kuriwiha ezedokfaz matonalu sabke. Biva kuvpizza ikedaz odoajuvi niw otoam luselis baz fizedzu veno jin itefis rodo varvubaw avouk.",
+    "bio": "Uccu roabva hid bizigo ilhi mesohfug puvaku hatereog jajhadu ho jek rivgil caktow nafteh. Zonposat areetoudu kesger rew ica horovhi os rociharin bujcaari ugeni voljin maw raze. Rac dizulu miwib jikfu aced tuk lugwiv akohuoso rote eb rilo mogon picmugle."
+  },
+  "apiKey": "c29c30d5a594f32426794c0978c96f31a2ab6438c1a4c299bcb5e608499b9649",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
