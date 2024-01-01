@@ -1,0 +1,26 @@
+{
+  "name": "Vincent Hudson",
+  "age": 18,
+  "address": {
+    "street": "Ozaoju Boulevard",
+    "city": "Kefubefu",
+    "state": "NY",
+    "zip": "10277"
+  },
+  "contact": {
+    "phone": "(588) 814-8674",
+    "servicePhone": "800423127"
+  },
+  "birthday": "2004-09-18T02:10:19.882Z",
+  "ip": "244.143.224.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Beraso neare ri veznerku wolugvu lozim suaku zehful pasru kuhluek ce begeka bancaez ogufepod agowarov. Eti tepjugun naibdi ge pucezga fup bevheuto hecbo si viihuce hugtupes ke vejaz nited. Polmo ahasi bat ewgap dup kolazi mo dohweaso num vufu ro norov fulvijar.",
+    "bio": "Wuzihuek kizbekkak eta daedeci ub ib sat sanhek pamled pipebo uh id. Zifig en vin vic col jujwak palvuipi huz izrej ro ca ubomicab cuz cenazif fe. Murji malper mop uldej riv fickic fedak ve zaukunor jibgo cidnowa jo me. Ekrevmoj dusam poga gipwutaz rukme bede wafpafom hezdaj cakomis lihmoftal zu ipe lowpo te. Ce seh hov gaglak hirofuk fevnaf cof juivcu micu sa sis unu obutov ifodokot nevbap fos."
+  },
+  "apiKey": "03f452f71b1add9ddcbb5291f877e8f34beb5fc03fc461f8a0cdf0cbf3060643",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
