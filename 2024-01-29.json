@@ -1,0 +1,26 @@
+{
+  "name": "Edward Buchanan",
+  "age": 40,
+  "address": {
+    "street": "Nowo Plaza",
+    "city": "Rucege",
+    "state": "WY",
+    "zip": "56180"
+  },
+  "contact": {
+    "phone": "(802) 908-5660",
+    "servicePhone": "800954878"
+  },
+  "birthday": "2000-12-09T05:19:19.162Z",
+  "ip": "6.226.24.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Unife gi som ju ko cadson row har suwrokube lo urgodhe nas et tetut torhirhel ehava nujvipam. Zi wutigaj hub hezoro za hak erousjac bew rut igohu fevuleha ira zotbij mujpo uriwiwhan alimovpud va. Kehopi gazod lal wemuf ah ecfafmor za bigjesuso cacukuc er vut moso koudi azfoul emgof.",
+    "bio": "Loc foicluj arzore soimuul huzolu sakun aw vulevu sahfam diji egpuew dojkup doh ro epub de ifwujur carcic. Paew naf vi cethawdis du poc wobhif hulaal og menobo itokuaji uv rer keiz fat kowofma. Obhevi bevud lubzib azo casedtu ditlaut unule vaci uci duwivow ri cooka me eza feh."
+  },
+  "apiKey": "2dc5af35793c6dc69063263e24ed670cb64d6813951e1075ebfe5a41765fe371",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
