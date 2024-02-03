@@ -1,0 +1,26 @@
+{
+  "name": "George Salazar",
+  "age": 53,
+  "address": {
+    "street": "Kohwe Extension",
+    "city": "Upitoig",
+    "state": "PA",
+    "zip": "11926"
+  },
+  "contact": {
+    "phone": "(625) 631-3696",
+    "servicePhone": "800742647"
+  },
+  "birthday": "1962-05-29T23:23:47.186Z",
+  "ip": "10.132.61.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Wuswaza amo mevvebnu bol gavre jo to gip sib bi nonnaggi fuheh jidoca su em upgo. Zodo von fe nause puluf com kih obeebo lof ot ful so osazo ila juh lof bu gu. Zagviw woduuh howefer efavor uzegugger jam dovbuc zeron zima kevfovet badzu gafuci limognal vuwez zabidol zaddofke dere.",
+    "bio": "Tanokuz oniz ar sa pecucpe upjuhrif kesluar redawom nokanagi ugirecmo ivo dufi gahumu toapved fapul hawtakto. Wigdume ipuibuz zali opototve fibno taszem nocam munzitmog de wup kadu wobuk vimeki hopilu. Ruro gigiv icila kamev ce dopjeb usdogu panatu oru ud rigu duz litalapem kina hef. Borbeli za tu mofge pawek tac gidtoho bagal lu pebum vikuz du."
+  },
+  "apiKey": "ef051dcba9359c27c94b63caa286d7cb13b90c5ef562561758e646d097363974",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  }
+}
