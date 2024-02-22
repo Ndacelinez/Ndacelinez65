@@ -1,0 +1,26 @@
+{
+  "name": "Ola Becker",
+  "age": 51,
+  "address": {
+    "street": "Wobdaw Point",
+    "city": "Vugozi",
+    "state": "MI",
+    "zip": "99514"
+  },
+  "contact": {
+    "phone": "(766) 904-6086",
+    "servicePhone": "800745164"
+  },
+  "birthday": "1996-09-13T08:16:23.735Z",
+  "ip": "4.96.168.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Zigizev etpehgi cap hi holusugop re soovve wa ahdejbe ida pubefoiz zopwuw vulfofi bavu. Ziofa eptapop zafope tihebjef kuotebik di zaula fiwjoh tubucaz citgo cojof jibzahu ganhiglu vewuawe dalomooha rapu devogak anpuga. Burbo le jo podrup pow dafemog gu neave so zompa ed ce hihoca apezuvut ujudozeh.",
+    "bio": "Vefo ih ta du lol wuligeb ociveiw dofaziw ji lih huwuzge sumtah kuluapa mub. Utfada zajgeh op fuf igalamu ibupas ti etme ilcebtic bildacise zoimagem me. Ritvaj jufsi cusahok dezuz iphev woitbi reibaw luceeva elagu ve te jokzesda hezcitto ake ufofuf."
+  },
+  "apiKey": "2d913b2b8283355ea4468556ec9b83f80b30bb2e1ea2dfc5a51c0a4fdd400bd7",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
