@@ -1,0 +1,26 @@
+{
+  "name": "Ella Wagner",
+  "age": 20,
+  "address": {
+    "street": "Midlij Terrace",
+    "city": "Sawico",
+    "state": "IA",
+    "zip": "06425"
+  },
+  "contact": {
+    "phone": "(327) 301-1822",
+    "servicePhone": "800213272"
+  },
+  "birthday": "1995-04-05T21:53:57.727Z",
+  "ip": "135.137.224.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Kefeggaf okefuh biojeak kucnoj gueh muco du wampe zirfowror wigafi biptuufa poj. Heujego tam wola vu da jirisaj sinvetup ut kemwu ogfejiw ogasouso matguzkuz weboro muhpenu ohiut. Wum diz tojzar cicimeg niwpid hozeb lorgi sufauz pivkuvuf vawijtut me ruczoh cuhikru mo.",
+    "bio": "Nofulo bukbappih denotafi tidievu zu op favpiwe depwehji su vezerir bujorocu bo rusfot gagohan ce ge jemrebom jo. Hokuzro zi mac no igo heh ofoikoju mokosuh maekaupu pez vacegoz gahfaz. So katoro vodtalo sanbiw cokum wow tapzuj ge ace pub nomculak go hod."
+  },
+  "apiKey": "d50b2604dbe60950d80f5eb470fc21d11d7272327b3f8c911dc61b44b0d45988",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
