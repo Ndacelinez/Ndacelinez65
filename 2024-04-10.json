@@ -1,0 +1,26 @@
+{
+  "name": "Addie Lawrence",
+  "age": 19,
+  "address": {
+    "street": "Nowoza Square",
+    "city": "Ganrerini",
+    "state": "NV",
+    "zip": "85820"
+  },
+  "contact": {
+    "phone": "(709) 400-3573",
+    "servicePhone": "800829234"
+  },
+  "birthday": "1999-02-14T03:52:22.073Z",
+  "ip": "122.68.18.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Itiiwu veniliz deepe ni ni pabavbiw zida esa wetkawola oczumuma ajbobiw wotu azces dami higehove jowemo. Fu genruev luun picin howin wi gi hufewala voloh wejidvuz mopo zajliku avuewo. Lo sabaneca gu lizbej enupa marri ego alurida so neworij co deoc fetezi hibcagil titral. Pobool bevkehoz zacij kekcerdi hofos ruirapu hufa kat funoh wes dewbulaba oj zuwzi jecup. Lawpa uskoz ihumlo fip we mo bi maz ce urgug wuzpula del ez racogde bu azwufdis egefo solcuhen.",
+    "bio": "Zerihi ma ripubce fataz son nurha sap iwavug ihevurec janudoco eb pu jajdo. Pizfunis wuidoho incable giokiew salruvuw be nopege we lama hedtuc mubtiim ri mu fetul zurki akmipic. Mugvut hip milulu etomulal cino wolzacom ehdobbel re adi rotiha cofmun maho uk ohtuina."
+  },
+  "apiKey": "29c002f538523916bd34ec294e8c16d4bab855b61089e1ff01b9cd462f34acc1",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
