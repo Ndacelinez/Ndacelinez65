@@ -1,0 +1,26 @@
+{
+  "name": "Jordan Obrien",
+  "age": 42,
+  "address": {
+    "street": "Rikma Highway",
+    "city": "Fivovoz",
+    "state": "TN",
+    "zip": "35419"
+  },
+  "contact": {
+    "phone": "(434) 733-4248",
+    "servicePhone": "800432279"
+  },
+  "birthday": "1966-11-27T22:38:04.149Z",
+  "ip": "148.216.46.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Gobowi meabo revamuc ikemif remuvloz covlus natmipa vuisi lejuduba siruneh elifu levi hoz kov ubelanog piaru sarsaw. Guzoku ju ewoataru be sueprov huji jiidupup torava pivnichet po fufi kib gu. Ilhaf jo zir ebiri ugle tezkono zetosci mul emaiwsop caf mufewpa sirpi jonil uci pi vu.",
+    "bio": "Fiko rew nij ve haguva ud ta ner nohkawbem dabonru godegak nedlaz ruvdorles bim hakofet amne. Ife jiw awfaki kuowoza fittu soncebjar egzoha pauwoce opare jazosa arekev mi paonci. Ciw kice ruwuade gu ec anori ha mufih ewo ek jaaj fe pe."
+  },
+  "apiKey": "522a7f6df199a5c400599d00cacf24d8d4851d7a644f0a62e1c395b3d49fbfca",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
